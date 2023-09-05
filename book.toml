@@ -1,0 +1,10 @@
+[book]
+title        = "顶级足球裁判员训练自感劳累系数中的时间效应"
+authors      = ["zz"]
+language     = "zh"
+multilingual = false
+src = "src"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://zzzxj12138.github.io/index/"
